@@ -1,14 +1,14 @@
 # Site settings
-title: Swift
-description: A clean minimal Theme for Jekyll
-email: pranav@maangalabs.com
+title: Convergência Livre
+description: "Simplificando o compartilhamento da informação."
+email: profjulianoramos@gmail.com
 baseurl: https://convergencialivre.github.io/
 url: "https://convergencialivre.github.io/" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
 
 #feed
-feedburner_username: maangalabs
+#feedburner_username: maangalabs
 #twitter
 twitter_username: pranavrajs
 github_username:  pranavrajs
