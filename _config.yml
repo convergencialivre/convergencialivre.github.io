@@ -8,7 +8,7 @@ url: "https://convergencialivre.github.io/" # the base hostname & protocol for y
 favicon: /favicon.png
 
 #feed
-#feedburner_username: maangalabs
+feedburner_username: convergencialivre
 #twitter
 twitter_username: pranavrajs
 github_username:  pranavrajs
