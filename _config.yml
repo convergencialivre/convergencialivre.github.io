@@ -2,7 +2,7 @@
 title: Convergência Livre
 description: "Simplificando o compartilhamento da informação."
 email: profjulianoramos@gmail.com
-baseurl: https://convergencialivre.github.io/
+baseurl: /
 url: "https://convergencialivre.github.io/" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
