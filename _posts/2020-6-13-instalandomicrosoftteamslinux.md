@@ -8,7 +8,7 @@ categories: Desktop Linux
 O Microsoft Teams agora possui versão para linux do seu cliente desktop. Aprenda a instalar e conectar-se com sua equipe de trabalho.
 
 ![teams](/images/teams.jpg)
-
+<!-- more -->
 A Microsoft dia a dia tem demonstrado mais respeito pelo linux e pelas ferramentas de código aberto. O Microsoft Teams é a primeira ferramenta do pacote MS Office a chegar no linux, e pode não ser a última.
 
 O mais legal é que esta versão suporta todos os recursos que a versão para Windows. O ambiente é exatamente o mesmo para a equipe, não importa se ela usa Windows ou Linux.

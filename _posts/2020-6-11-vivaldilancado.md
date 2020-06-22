@@ -8,7 +8,7 @@ categories: Apps linux
 Acaba de ser lançado o navegador Vivaldi 3.1, compatível com Microsoft Windows, Mac e Linux. Entre os novos recursos, um destaque para a inicialização mais rápida, além de um gerenciador de anotações de página inteira e menus configuráveis.
 
 ![vivaldi](/images/vivaldi.png)
-
+<!-- more -->
 O Vivaldi tem como base o Chromium 83 que é um dos navegadores mais estáveis, sendo base para outros navegadores como por exemplo o Edge da Microsoft. Recentemente eu fiz um vídeo falando sobre minha experiência positiva com o Vivaldi, que você pode assistir clicando na imagem abaixo:
 
 [![vivaldi](http://img.youtube.com/vi/tFGyEl4tfSc/0.jpg)](http://www.youtube.com/watch?v=tFGyEl4tfSc "vivaldi"){:taget="_blank"}

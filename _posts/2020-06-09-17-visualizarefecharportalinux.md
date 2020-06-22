@@ -7,7 +7,7 @@ categories: servidor linux
 
 É tarefa de um administrador linux, localizar e se necessário fechar portas indesejadas no servidor. Para esta tarefa, tudo de que precisa, é uma instância linux em execução e um usuário com previlêgio administrativo.
 
-O comando **netstat** foi descontinuado e não deve ser usado, usaremos então o comando **ss**. 
+O comando **netstat** foi descontinuado e não deve ser usado, usaremos então o comando **ss**. <!-- more -->
 
 ```bash
 sudo ss -tulwn | grep LISTEN

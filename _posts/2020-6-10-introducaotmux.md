@@ -7,7 +7,7 @@ categories: desktop linux
 
 Com o TMUX você pode criar várias sessões de terminal que podem ser abertas (anexadas) e fechadas (desanexadas) ou exibidas simultaneamente, tudo em uma única janela, aumentando assim sua produtividade.
 
-![tmux](/images/tmux.png)
+![tmux](/images/tmux.png)<!-- more -->
 
 ## Instalar o tmux
 

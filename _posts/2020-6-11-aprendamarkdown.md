@@ -6,7 +6,7 @@ categories: Markdown
 ---
 **Mardown** é uma sintaxe usada para padronizar e facilitar formatação de texto na WEB, utilizada em aplicativos como o **slack** e aqui no **github**. 
 
-![markdown](/images/markdown.png)
+![markdown](/images/markdown.png)<!-- more -->
 
 > O markdown funciona como um conversos de texto para o HTML.
 

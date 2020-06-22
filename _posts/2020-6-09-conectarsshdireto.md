@@ -5,7 +5,7 @@ date:   2020-06-10 17:03:36 +0530
 categories: Servidor linux
 ---
 
-Se você assim como eu está sempre em busca de ser mais efetivo em suas ações, este tutorial, apesar de ser uma dica simples, ajuda nesta melhora da produtividade.
+Se você assim como eu está sempre em busca de ser mais efetivo em suas ações, este tutorial, apesar de ser uma dica simples, ajuda nesta melhora da produtividade.<!-- more -->
 
 ## Pré-requisito
 

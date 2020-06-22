@@ -7,7 +7,7 @@ categories: Kernel Linux
 
 O Linux lite é uma distribuição muito prática e intuitiva. Atualizar o kernel nesta distribuição chega a ser uma tarefa trivial. 
 
-O sistema possui uma ferramenta que automatiza a instalação de uma nova versão do Kernel Linux. Você realiza esta tarefa com apenas alguns cliques do mouse. 
+O sistema possui uma ferramenta que automatiza a instalação de uma nova versão do Kernel Linux. Você realiza esta tarefa com apenas alguns cliques do mouse. <!-- more -->
 
 ![Kernel novo no Lite](/images/kernellite.png)
 

@@ -9,7 +9,7 @@ Neste primeiro tutorial sobre este assunto, vamos usar o software LB Build criad
 
 ![lbuild](/images/lb.png)
 
-
+<!-- more -->
 
 # Pré-requisitos
 

@@ -6,6 +6,7 @@ categories: ubuntux
 ---
 
 Antes de qualquer coisa, quero dizer que este projeto não tem a ambição de ser mais uma distribuição linux, nem tão pouco, estamos apenas trocando o papel de parede e dizendo se tratar de uma remasterização. Existe muita coisa sobre o capô, e queremos que você venha, explorar junto com a gente.
+<!-- more -->
 
 ## Um conceito de desktop novo
 Uma coisa legal em se ter um canal de linux no youtube, é que eu sempre recebo feedback das pessoas sobre as diversas distribuições que apresento. E olha que são muitas! 

@@ -10,7 +10,7 @@ Se você deseja conhecer os detalhes de seu projeto de software rapidamente e de
 ![onefetch](/images/kitty.png)
 
 O onefecth é uma ferramenta (CLI) que pode verificar diretórios e projetos baseados em GIT e fornecer um resumo elegante. Isso inclui a divisão de autores, informação de criação e alteração do repositório, composição do idioma, informação de licenciamento, linhas de código e etc... São suportadas cerca de 50 linguagens de programação.
-
+<!-- more -->
 Veja minha saída do blog:
 
 ![onefetch my](/images/onefetch.png)

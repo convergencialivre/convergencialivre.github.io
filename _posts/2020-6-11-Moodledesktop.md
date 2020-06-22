@@ -8,7 +8,7 @@ categories: ubuntu
 O moodle desktop é um app oficial do moodle para Microsoft Windows, Linux, Mac Os e Android. O software permite que você acesse seu site moodle (como o dos meus cursos) e de universidades, promovendo uma interface única e diferenciada.
 
 ![desktop moodle](/images/desktpmoodle.png)
-
+<!-- more -->
 
 
 ## Instalando no Linux

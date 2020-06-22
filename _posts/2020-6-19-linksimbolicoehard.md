@@ -7,6 +7,8 @@ categories: desktop linux
 
 Um link é um mecanismo para se criar um atalho para o arquivo ou diretório original. Ele contém informações sobre outro arquivo ou diretório.
 
+<!-- more -->
+
 Os links podem ser de dois tipos:
 
 - Soft Link 

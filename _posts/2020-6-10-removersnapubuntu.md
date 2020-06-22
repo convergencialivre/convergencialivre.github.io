@@ -10,7 +10,7 @@ Antes de mais nada, você sabe o que é um snap?
 
 >Snappy é um software de implantação e um sistema de gerenciamento de pacotes construído pela canonical. Os pacotes oferecidos por esta aplicação chamam-se "snap". O objetivo desta tecnologia é oferecer os paco
 tes em "contêiner", já com suas dependências, rodando assim em praticamente qualquer distribuição de linux. Este modo de operação também torna o software mais seguro e em caso de uma atualização ruim, você terá a versão antes da atualização pronta a ser utilizada.
-
+<!-- more -->
 
 ## Por que remover o snap?
 Antes de responder esta pergunta, quero informar que isto não deve ser para todos. Além das vantagens que coloquei sobre o snap, ele é responsável pela aplicação "Livepatch" do Ubuntu, que permite atualizações constantes nos pacotes e no Gnome oferecidas pela Canonical, além de oferecer diversos aplicativos (alguns exclusivos) a este tipo de pacote. 

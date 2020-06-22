@@ -8,7 +8,7 @@ categories: Desktop Linux
 Podemos sincronizar diversos serviços de armazenamento da nuvem diretamente no nosso desktop linux, através de duas aplicações: **rcloneBrowser** e **rcloneTray**. 
 
 ![rclone](/images/rbrowser.png)
-
+<!-- more -->
 Para instalar as duas aplicações, abra seu terminal:
 
 ```bash

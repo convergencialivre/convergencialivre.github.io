@@ -9,6 +9,7 @@ Você tem certeza de que seus usuários estão trabalhando com senhas seguras em
 ![passwords](/images/password.jpg)
 
 > Eu demonstrarei o uso da ferramenta como um meio de testar as senhas de seus usuários em um servidor interno. O uso desta ferramenta fora desta intenção pode ter implicações legais. 
+> <!-- more -->
 
 ## A instalação
 John the Ripper, pode ser instalado em praticamente todas as distribuições, no caso do Debian/Ubuntu e derivados, abra um terminal e digite:

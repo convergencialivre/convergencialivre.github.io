@@ -10,7 +10,7 @@ Bom dia, boa tarde e boa noite! Se você ainda não me conhece, sou o professor 
 
 Esta nova série de publicações aqui no Blog, tem como objetivo, abordar o conteúdo da prova 101-500 da certificação LPI. 
 
-
+<!-- more -->
 
 ## Estude comigo
 

@@ -8,7 +8,7 @@ Snowflake é uma GUI para o SSH que aumenta sua produtividade e torna as coisas 
 
 ![snowflake](/images/snow.png)
 
-Todos os dias eu utilizo o shell do linux e conecto servidor SSH para fazer monitoria. As vezes tenho dezenas de servidores para verificar e mesmo usando terminais em abas e painéis, a tarefa é trabalhosa, principalmente ficar se logando nos hosts, copiando arquivos via scp e monitorando os recursos das máquinas.
+Todos os dias eu utilizo o shell do linux e conecto servidor SSH para fazer monitoria. As vezes tenho dezenas de servidores para verificar e mesmo usando terminais em abas e painéis, a tarefa é trabalhosa, principalmente ficar se logando nos hosts, copiando arquivos via scp e monitorando os recursos das máquinas.<!-- more -->
 
 ## Mas então, eu descobri o snowflake!
 O Snowflake inclui um gerenciador de conexões, navegador de arquivos, emulador de terminal, gerenciador de recursos com análise do processador, análise de uso de disco, editor de texto, visualizador de log e ufa... autenticação de chave SSH. Provavelmente tem mais coisas, mas você terá que descobrir. 

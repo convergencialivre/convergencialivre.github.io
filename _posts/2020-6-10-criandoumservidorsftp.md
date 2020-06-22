@@ -5,7 +5,7 @@ date:   2020-06-10 11:08:16 +0530
 categories: Servidor Linux
 ---
 
-O SFTP é um excelente método para a transferência de arquivos remotos no linux. Neste tutorial, vamos aprender a configurar este sistema seguro de compartilhamento de arquivos e conhecer sua diferença ao tradicional FTP.
+O SFTP é um excelente método para a transferência de arquivos remotos no linux. Neste tutorial, vamos aprender a configurar este sistema seguro de compartilhamento de arquivos e conhecer sua diferença ao tradicional FTP.<!-- more -->
 
 ## FTP ou SFTP
 

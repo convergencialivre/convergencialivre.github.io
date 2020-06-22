@@ -9,7 +9,7 @@ Muitas vezes você pode desejar compartilhar seu terminal para que alguém o aju
 
 ![remote](/images/remote.png)
 
-
+<!-- more -->
 ### O que é o Streamhut
 O Streamhut é um serviço da WEB que permite à você compartilhar seu terminal em tempo real, sem nenhum software adicional. Tudo que você precisa é da aplicação **netcat** presente em quase todas as distribuições linux.
 

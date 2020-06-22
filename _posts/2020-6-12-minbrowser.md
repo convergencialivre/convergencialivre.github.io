@@ -9,7 +9,7 @@ Se você procura um browser minimalista, que te faça focar mais no conteúdo, q
 
 ![min browser](/images/minbroser1.png)
 
-
+<!-- more -->
 Observe a imagem acima, o que você nota: Não tem barra para digitar a URL não é mesmo? Mas, é só você clicar ali em cima que ela aparece. 
 
 ![search bart](/images/searchbar.png)

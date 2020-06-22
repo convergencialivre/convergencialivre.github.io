@@ -10,7 +10,7 @@ O **journalctl** pode ajudá-lo a a solucionar problemas, quando seu serviço n�
 ![systemd](/images/systemd.png)
 
 Se você utiliza uma distribuição linux atual, provavelmente, já está familiarizado com o **SystemD**. Quando algum serviço não inicializar, o systemD tem uma excelente ferramenta para a leitura de logs, o que já adianta muito o caminho para a solução do problema. Afinal, como você vai buscar uma solução, se não sabe o que ocasiona o erro?
-
+<!-- more -->
 ## O comando básico
 Para uma saida inicial de log, use o comando:
 

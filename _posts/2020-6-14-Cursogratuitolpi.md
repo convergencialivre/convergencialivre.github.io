@@ -9,7 +9,7 @@ Estou oferecendo o único curso gratuito preparatório para a Certificação LPI
 
 
 <https://classroom.google.com/>
-
+<!-- more -->
 
 Após realizar seu login no site, clique para acessar uma turma e adicione o código:
 

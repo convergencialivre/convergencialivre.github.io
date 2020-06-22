@@ -6,6 +6,7 @@ categories: Magazine
 ---
 
 A cada vinte postagens aqui do blog, vou compilar o conteúdo em uma revista digital, de alta qualidade, para que você possa ler off-line e também com seu dispositivo móvel. Com índice e tema próprio. 
+<!-- more -->
 
 Faça Download desta primeira edição agora mesmo!
 

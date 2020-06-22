@@ -5,7 +5,7 @@ date:   2020-06-10 16:57:10 +0530
 categories: Certificação lpi
 ---
 
-Nossa segunda videoaula do curso gratuito preparatório da certificação LPIC-1 prova 101 já está disponível no site. No vídeo agrupo alguns pequenos vídeos, que gravei em dias diferentes, no entanto, estão todos em sequência. O Objetivo do vídeo é criar um laboratório para começarmos os nossos estudos.
+Nossa segunda videoaula do curso gratuito preparatório da certificação LPIC-1 prova 101 já está disponível no site. No vídeo agrupo alguns pequenos vídeos, que gravei em dias diferentes, no entanto, estão todos em sequência. O Objetivo do vídeo é criar um laboratório para começarmos os nossos estudos.<!-- more -->
 
 ## Virtualbox no Windows e no Linux
 

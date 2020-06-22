@@ -8,7 +8,7 @@ categories: Firefox
 Estou sempre em busca de ferramentas que tornem meu trabalho mais efetivo. Isto inclui, encontrar melhorias para minha produtividade. 
 
 
-![extensão youtube](/images/youtube.png)
+![extensão youtube](/images/youtube.png)<!-- more -->
 
 A extensão *Enhancer for Youtube* permite personalizar o youtube, incluindo 15 temas do estilo Dark:
 
